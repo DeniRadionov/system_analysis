@@ -33,7 +33,4 @@ def task(graph: str) -> list:
 
     return result
 
-# Пример 
-csv_string = "1,2\n1,3\n3,4\n3,5"
-result = task(csv_string)
-print(result)
+
